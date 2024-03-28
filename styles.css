@@ -1,0 +1,33 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: green;
+}
+
+.recipe-links {
+    font-size: 40px;
+}
+
+ol li {
+    color: royalblue;
+}
+
+ul.ing {
+    background-color: chartreuse;
+}
+
+#cur {
+    color: brown;
+}
+
+h1#chur {
+    background-color: brown;
+    color: aliceblue;
+}
+
+#crab {
+    color: red;
+    background-color: burlywood;
+}
