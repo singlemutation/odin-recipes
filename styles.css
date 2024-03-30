@@ -1,9 +1,6 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
-}
-
-h1 {
-    color: green;
+    box-sizing: border-box;
 }
 
 .recipe-links {
@@ -19,15 +16,44 @@ ul.ing {
 }
 
 #cur {
-    color: brown;
+    color: #10345e;
 }
 
 h1#chur {
-    background-color: brown;
-    color: aliceblue;
+    color: #8a0d0d;
 }
 
 #crab {
-    color: red;
-    background-color: burlywood;
+    color: goldenrod;
+}
+
+.title {
+    background-color: rgb(8, 83, 8);
+    color: gainsboro;
+    text-align: center;
+}
+
+.title,
+.recipe-box {
+    padding: 60px;
+    margin: 10px;
+}
+
+.recipe-box {
+    text-align: center;
+}
+
+.box-1 {
+    background-color: #10345e;
+}
+
+.box-2 {
+    background-color: #8a0d0d;
+}
+
+.box-3 {
+    background-color: goldenrod;
+}
+.recipe-links a {
+    color: gainsboro;
 }
